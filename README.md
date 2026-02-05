@@ -1,2 +1,11 @@
-# aiml
-A modern React-based student performance dashboard that visualizes academic data, tracks progress, and provides clear insights through interactive charts and a clean UI for smarter decisions by students and educators.
+
+  # Student Performance Dashboard
+
+  This is a code bundle for Student Performance Dashboard. The original project is available at https://www.figma.com/design/ZakKFHGuPlzw0I8pgxpSOR/Student-Performance-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
